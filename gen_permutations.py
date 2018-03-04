@@ -25,3 +25,4 @@ def gen_permutations(n):
 
 
 print(gen_permutations(3))
+# output: [[0, 0, 0], [0, 0, 1], [0, 1, 0], [0, 1, 1], [1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 1]]
